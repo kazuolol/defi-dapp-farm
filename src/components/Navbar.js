@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import farmer from '../farmer.png'
 
 const Navbar = ({ account }) => {
